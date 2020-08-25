@@ -13,5 +13,4 @@
 
 <p align="center">
 <a href="https://twitter.com/migushthe2nd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="migushthe2nd" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/migush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="migush" height="30" width="30" /></a>
 </p>
