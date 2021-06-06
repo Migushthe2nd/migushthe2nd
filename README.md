@@ -9,6 +9,8 @@
   A tool that makes it easier to create Nintendo Switch layouts
 - [Lacu](https://github.com/Migushthe2nd/Lacu)  
   A bot for Discord similar to music bots, but with video support on an external website
+- [MsEdgeTTS](https://github.com/Migushthe2nd/MsEdgeTTS)  
+  An Azure Speech Service module that uses the Microsoft Edge Read Aloud API
 - [filmkever](https://github.com/Migushthe2nd/filmkever)  
   A movie streaming website (unmaintained)
 - [Pubquiz](https://github.com/Migushthe2nd/Pubquiz)  
