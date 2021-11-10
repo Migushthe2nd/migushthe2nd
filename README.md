@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Migush</h1>
-<h4 align="center">CS Student</h4>
 
 <h3 align="left">My Projects:</h3>
 
