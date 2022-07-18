@@ -7,7 +7,7 @@
 - [LayoutKit](https://github.com/ThemezerNX/LayoutKit#readme)  
   A tool that makes it easier to create Nintendo Switch layouts
 - [EetstarZ](https://github.com/eetstarz/eetstarz-feedback/discussions)  
-  The AIO app for student houses: eating list, chores schedule, tallying, grocery list, virtual transactions and balance, and much more!
+  The AIO app for student houses: eating list, chores schedule, tallying, grocery list, virtual transactions and balance, [and much more](https://eetstarz.nl/#features)!
 - [MsEdgeTTS](https://github.com/Migushthe2nd/MsEdgeTTS)  
   An Azure Speech Service module that uses the Microsoft Edge Read Aloud API
 - Larry  
