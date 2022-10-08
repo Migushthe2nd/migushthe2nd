@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Migush</h1>
-
-<h3 align="left">My Projects:</h3>
+<h3 align="left">Some Projects:</h3>
 
 - [Themezer](https://github.com/ThemezerNX)  
   A site for sharing themes and layouts for the Nintendo Switch
