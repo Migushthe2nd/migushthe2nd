@@ -1,6 +1,6 @@
 <h3 align="left">Some Projects:</h3>
 
-- [EetstarZ](https://github.com/eetstarz/eetstarz-feedback/discussions)  
+- [EetstarZ](https://eetstarz.nl)  
   The AIO app for student houses: eating list, chores schedule, tallying, grocery list, virtual transactions and balance, [and much more](https://eetstarz.nl/#features)!
 - [Themezer](https://github.com/ThemezerNX)  
   A site for sharing themes and layouts for the Nintendo Switch
