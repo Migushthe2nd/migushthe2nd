@@ -19,8 +19,6 @@
 
 <h2>And some more</h2>
 
-- [LayoutKit](https://github.com/ThemezerNX/LayoutKit#readme)  
-  A tool that makes it easier to create Nintendo Switch layouts
 - [MsEdgeTTS](https://github.com/Migushthe2nd/MsEdgeTTS)  
   An Azure Speech Service module that uses the Microsoft Edge Read Aloud API
   
