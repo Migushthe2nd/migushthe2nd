@@ -3,13 +3,13 @@
 <tbody>
   <tr>
     <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/22274715/226957240-e32932d8-29be-4a2c-8969-7ac8392ef6c2.png" alt="express" width="80%"/>
+      <img src="https://user-images.githubusercontent.com/22274715/226957240-e32932d8-29be-4a2c-8969-7ac8392ef6c2.png" alt="express" width="100%"/>
       <br><h2>JeatApp</h2>
       <span>Everything your group needs, in one app!</span><br>
       <a href="https://github.com/JeatApp">visit organization</a>
     </td>
     <td align="center" width="50%">
-      <img src="https://preview.redd.it/xaj9wgcg7ry61.png?width=1920&format=png&auto=webp&v=enabled&s=dc13b9a743e8dc692de9469f61e498889e470210" alt="express" width="80%"/>
+      <img src="https://preview.redd.it/xaj9wgcg7ry61.png?width=1920&format=png&auto=webp&v=enabled&s=dc13b9a743e8dc692de9469f61e498889e470210" alt="express" width="100%"/>
       <br><h2>ThemezerNX</h2>
       <span>All kinds of theming tools for the Nintendo Switch</span><br>
       <a href="https://github.com/ThemezerNX">visit organization</a>
