@@ -9,7 +9,7 @@
       <a href="https://github.com/JeatApp">visit organization</a>
     </td>
     <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/22274715/226961132-e45c159e-ea39-4148-ab18-f4f7c1b70c9f.png" alt="express" width="100%"/>
+      <img src="https://user-images.githubusercontent.com/22274715/226962462-317d39fd-4a4d-49b4-aec3-01920bf00eec.png" alt="express" width="100%"/>
       <br><h2>ThemezerNX</h2>
       <span>All kinds of theming tools for the Nintendo Switch</span><br>
       <a href="https://github.com/ThemezerNX">visit organization</a>
