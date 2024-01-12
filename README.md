@@ -3,7 +3,7 @@
 <tbody>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/Migushthe2nd/migushthe2nd/assets/22274715/65088a92-d375-4cf8-8688-4a307569feb0.png" alt="express" width="100%"/>
+      <img src="https://github.com/Migushthe2nd/migushthe2nd/assets/22274715/65088a92-d375-4cf8-8688-4a307569feb0" alt="express" width="100%"/>
       <br><h2>JeatApp</h2>
       <span>Everything your group needs, in one app!</span><br>
       <a href="https://github.com/JeatApp">visit organization</a>
