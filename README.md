@@ -21,8 +21,6 @@
 
 - [MsEdgeTTS](https://github.com/Migushthe2nd/MsEdgeTTS)  
   An Azure Speech Service module that uses the Microsoft Edge Read Aloud API.
-- [NxSysupdate](https://github.com/Migushthe2nd/NXSysupdate)  
-  Detects, downloads, and runs hooks when a new Nintendo Switch system update has been detected. Posts output to a Discord webhook.
 
 <i>Of which archived:</i>
 
